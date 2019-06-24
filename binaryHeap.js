@@ -1,3 +1,4 @@
+// Refer to https://en.wikipedia.org/wiki/Binary_heap.
 function BinaryHeap(scoreFunction){
   this.content = [];
   this.scoreFunction = scoreFunction;
